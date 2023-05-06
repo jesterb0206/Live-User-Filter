@@ -15,11 +15,11 @@
 
 <br>
 
-![Live User Filter]()
+![Live User Filter](images/live-user-filter.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Live-User-Filter/)
 
 <br>
 
